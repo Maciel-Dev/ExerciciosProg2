@@ -10,10 +10,6 @@ def fRetornaLista(numeros):
     #Retorno
     return lista
 
-
-
-
-
 def main():
 
     inputUsuario = int(input())
