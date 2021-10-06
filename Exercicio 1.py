@@ -6,13 +6,10 @@ def fRetornaLista(numeros):
         if i%2 == 0:
             lista.insert(0, i)
 
+    #oi
 
     #Retorno
     return lista
-
-
-
-
 
 def main():
 
@@ -21,7 +18,6 @@ def main():
 
     listaRetorno = fRetornaLista(inputUsuario)
     print(listaRetorno)
-
 
 
 if __name__ == "__main__":
